@@ -1,0 +1,7 @@
+{
+  "name": "edro-music",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
