@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'edro.music.com',
   appName: 'edro-music',
   webDir: 'www',
   bundledWebRuntime: false
